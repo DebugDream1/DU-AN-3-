@@ -95,11 +95,6 @@ a {
 .control-icon--next {
   rotate: 180deg;
 }
-
-.menu-header__icon {
-  width: 25px;
-  height: 25px;
-}
 /* ================ header ================ */
 .header {
   padding-top: 30px;
